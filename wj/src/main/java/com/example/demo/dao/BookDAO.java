@@ -1,8 +1,7 @@
-package com.evan.wj.dao;
+package com.example.demo.dao;
 
-import com.evan.wj.pojo.Book;
-import com.evan.wj.pojo.Category;
-import org.springframework.data.domain.Page;
+import com.example.demo.pojo.Book;
+import com.example.demo.pojo.Category;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

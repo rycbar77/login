@@ -1,7 +1,7 @@
-package com.evan.wj.controller;
+package com.example.demo.controller;
 
-import com.evan.wj.pojo.Book;
-import com.evan.wj.service.BookService;
+import com.example.demo.pojo.Book;
+import com.example.demo.service.BookService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

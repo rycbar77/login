@@ -1,7 +1,7 @@
-package com.evan.wj.service;
+package com.example.demo.service;
 
-import com.evan.wj.dao.CategoryDAO;
-import com.evan.wj.pojo.Category;
+import com.example.demo.dao.CategoryDAO;
+import com.example.demo.pojo.Category;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;

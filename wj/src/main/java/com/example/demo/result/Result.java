@@ -1,4 +1,4 @@
-package com.evan.wj.result;
+package com.example.demo.result;
 
 public class Result {
     private int code;

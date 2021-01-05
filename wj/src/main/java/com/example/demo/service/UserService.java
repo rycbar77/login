@@ -1,7 +1,7 @@
-package com.evan.wj.service;
+package com.example.demo.service;
 
-import com.evan.wj.dao.UserDAO;
-import com.evan.wj.pojo.User;
+import com.example.demo.dao.UserDAO;
+import com.example.demo.pojo.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
