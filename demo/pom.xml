@@ -8,10 +8,10 @@
         <version>2.4.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.evan</groupId>
-    <artifactId>wj</artifactId>
+    <groupId>com.example</groupId>
+    <artifactId>demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>wj</name>
+    <name>demo</name>
     <description>example</description>
 
     <properties>
